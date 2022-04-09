@@ -25,7 +25,7 @@ export default function About() {
               view the source code, fork it, or even use it in your projects.
             </p>
           )}
-          <div className="links">
+          {/* <div className="links">
             <h2>Links</h2>
             <ul>
               <li>
@@ -65,7 +65,7 @@ export default function About() {
                 </a>
               </li>
             </ul>
-          </div>
+          </div> */}
         </div>
       </section>
     </Layout>

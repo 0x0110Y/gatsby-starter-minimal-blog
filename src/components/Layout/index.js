@@ -18,7 +18,7 @@ export default function Layout({ className, children, title }) {
       <Header />
       {children}
       <Footer>
-        <p>Elves Sousa - 2020</p>
+        <p>Jlice Lee - 2022</p>
       </Footer>
     </main>
   );

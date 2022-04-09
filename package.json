@@ -5,6 +5,7 @@
   "license": "MIT",
   "dependencies": {
     "gatsby": "^3.4.0",
+    "gatsby-plugin-google-gtag": "^4.11.0",
     "gatsby-plugin-intl": "^0.3.3",
     "gatsby-plugin-web-font-loader": "^1.0.4",
     "gatsby-source-filesystem": "^3.4.0",
