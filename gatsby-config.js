@@ -1,7 +1,10 @@
 module.exports = {
   /* Your site config here */
-  // siteMetadata: {},
+  siteMetadata: {
+    siteUrl: `https://jlice.gatsbyjs.io`,
+  },
   plugins: [
+    `gatsby-plugin-sitemap`,
     {
       resolve: "gatsby-source-filesystem",
       options: {
