@@ -9,7 +9,7 @@ export default function Post({ data }) {
   const { html, frontmatter: post } = data.markdownRemark;
 
   useEffect(() => {
-    if (post.lang !== "pt") {
+    if (post.lang !== "en") {
       changeLocale(post.lang);
     }
   }, [post.lang]);

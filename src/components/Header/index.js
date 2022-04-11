@@ -7,7 +7,7 @@ import { useIntl } from "gatsby-plugin-intl";
 
 export default function Header({ className, children, title }) {
   const intl = useIntl();
-  const locale = intl.locale !== "pt" ? intl.locale : "";
+  const locale = intl.locale || "/";
   const headerClass = className || "header";
 
   return (
@@ -16,8 +16,10 @@ export default function Header({ className, children, title }) {
       <Navigation />
       {children}
       <div className="lang">
-        <Link to="/">PT</Link>
         <Link to="/en">EN</Link>
+        <Link to="/ja">JA</Link>
+        <Link to="/ko">KO</Link>
+        <Link to="/zh">ZH</Link>
       </div>
     </header>
   );

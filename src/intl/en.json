@@ -1,6 +1,7 @@
 {
-  "about": "About",
-  "articles": "Articles",
-  "home": "Home",
-  "slogan": "An example site showcasing a bilingual site with GatsbyJS."
+  "about": "Intro",
+  "articles": "Recipe",
+  "home": "REC",
+  "slogan": "Jlice's canteen, Chinese food recipes.",
+  "hot": "Signature Dish "
 }

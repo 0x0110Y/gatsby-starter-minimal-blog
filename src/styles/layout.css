@@ -92,7 +92,7 @@ a {
 /* Hero */
 .hero {
   align-items: center;
-  background: #000 url(/img/splash.jpg) no-repeat center fixed;
+  background: #000 url(/img/bg.jpeg) no-repeat center fixed;
   color: #fff;
   display: flex;
   grid-area: m;
@@ -148,7 +148,6 @@ a {
 .post p {
   font-size: 0.9em;
 }
-
 /* Post page */
 .post-content,
 .page-content {
@@ -159,6 +158,9 @@ a {
 .post-text {
   margin: 1em auto 2em;
   width: min(30em, 90vw);
+}
+.post-text p img {
+  width: 100%;
 }
 
 /* Pagination */

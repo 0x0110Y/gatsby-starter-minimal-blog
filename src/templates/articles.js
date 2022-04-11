@@ -6,7 +6,7 @@ import Layout from "../components/Layout";
 
 export default function Articles(props) {
   const intl = useIntl();
-  const locale = intl.locale !== "pt" ? `/${intl.locale}` : "";
+  const locale = intl.locale !== "en" ? `/${intl.locale}` : "";
   const posts = props.data.allMarkdownRemark.edges;
   const { numPages } = props.pageContext;
   const filteredPosts = posts.filter((edge) =>
