@@ -12,7 +12,7 @@ export default function Articles(props) {
   const filteredPosts = posts.filter((edge) =>
     edge.node.frontmatter.lang.includes(intl.locale)
   );
-
+  console.log(filteredPosts)
   return (
     <Layout title={intl.formatMessage({ id: "articles" })}>
       <section className="articles">
