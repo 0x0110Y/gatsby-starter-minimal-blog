@@ -1,6 +1,6 @@
 ---
 lang: ko
-title: "여름에 시원한 면을 먹으면 정말 맛있습니다! 【갈가리 찢긴 치킨 냉면】"
+title: 새콤달콤, 겉은 바삭, 속은 부드러운 정통 중화요리! 【탕수육】
 slug: shredded-chicken-cold-noodles-ko
 date: 2022-04-12
 category: post

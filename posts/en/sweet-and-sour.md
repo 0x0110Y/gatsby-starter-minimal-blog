@@ -1,6 +1,6 @@
 ---
 lang: en
-title: "How to cook tenderloin【Chinese sweet and sour tenderloin】"
+title: "Sweet and sour, crispy on the outside and tender on the inside, classic Chinese food! 【Sweet and Sour Pork】"
 slug: sweet-and-sour-en
 date: 2022-04-11
 category: post

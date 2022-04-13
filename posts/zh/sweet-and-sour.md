@@ -1,6 +1,6 @@
 ---
 lang: zh
-title: "怎么做里脊肉【中餐糖醋里脊】"
+title: 酸甜可口外酥里嫩，经典中国美食！【糖醋里脊】
 slug: sweet-and-sour-zh
 date: 2022-04-11
 category: post

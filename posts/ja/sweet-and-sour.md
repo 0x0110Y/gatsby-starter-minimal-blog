@@ -1,6 +1,6 @@
 ---
 lang: ja
-title: "テンダーロインの作り方【中華甘酸っぱいテンダーロイン】"
+title: 甘酸っぱい、外はサクサク、中はやわらかい、定番の中華料理！ 【酢豚】
 slug: sweet-and-sour-ja
 date: 2022-04-11
 category: post

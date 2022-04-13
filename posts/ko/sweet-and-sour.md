@@ -1,6 +1,6 @@
 ---
 lang: ko
-title: "안심 요리법[중국식 탕수육]"
+title: "새콤달콤, 겉은 바삭, 속은 부드러운 정통 중화요리! 【탕수육】"
 slug: sweet-and-sour-ko
 date: 2022-04-11
 category: post
