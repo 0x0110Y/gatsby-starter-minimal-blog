@@ -3,7 +3,6 @@ import { Link, graphql } from "gatsby";
 import { useIntl, FormattedDate } from "gatsby-plugin-intl";
 
 import Layout from "../components/Layout";
-
 import "../styles/layout.css"
 
 export default function Articles(props) {
