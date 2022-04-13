@@ -1,6 +1,7 @@
 import React from "react";
 import Layout from "../components/Layout";
 import { useIntl } from "gatsby-plugin-intl";
+import "../styles/layout.css"
 
 export default function About() {
   const intl = useIntl();

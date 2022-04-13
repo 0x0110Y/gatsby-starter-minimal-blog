@@ -4,6 +4,8 @@ import { useIntl, FormattedDate } from "gatsby-plugin-intl";
 
 import Layout from "../components/Layout";
 
+import "../styles/layout.css"
+
 export default function Articles(props) {
   const intl = useIntl();
   const locale = intl.locale !== "en" ? `/${intl.locale}` : "";
