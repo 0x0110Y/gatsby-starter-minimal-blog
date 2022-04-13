@@ -5,6 +5,8 @@ import Header from "../Header";
 import Footer from "../Footer";
 import { useIntl } from "gatsby-plugin-intl";
 
+import "./layout.css";
+
 export default function Layout({ className, children, title }) {
   const intl = useIntl();
   return (

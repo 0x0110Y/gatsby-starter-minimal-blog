@@ -4,6 +4,7 @@ import { graphql } from "gatsby";
 import Layout from "../components/Layout";
 import { changeLocale } from "gatsby-plugin-intl";
 import { useEffect } from "react";
+//import "../styles/layout.css"
 
 export default function Post({ data }) {
   const { html, frontmatter: post } = data.markdownRemark;

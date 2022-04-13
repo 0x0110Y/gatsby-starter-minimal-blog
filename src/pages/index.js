@@ -3,7 +3,7 @@ import { Link } from "gatsby";
 
 import Layout from "../components/Layout";
 
-import "../styles/layout.css";
+//import "../styles/layout.css";
 import { useIntl } from "gatsby-plugin-intl";
 
 export default function Home() {
