@@ -19,20 +19,22 @@ export default function Post({ data }) {
       <Helmet>
         <script type="application/ld+json">
           {`
-            "@context": "https://schema.org",
-            "@type": "Recipe",
-            "author": {
-              "@type": "Person",
-              "name": "Jlice"
-            },
-            "image": "https://jlice.gatsbyjs.io/img/post/${post.folder}/done.png",
-            "name": "${post.name}",
-            "recipeCategory": "${post.recipeCategory}",
-            "recipeCuisine": "${post.recipeCuisine}",
-            "recipeIngredient": "${post.recipeIngredient}",
-            "dataPublished": "${post.date}",
-            "description": "${post.description}",
-            "keywords": "${post.keywords}"
+              {
+                "@context": "https://schema.org",
+                "@type": "Recipe",
+                "author": {
+                  "@type": "Person",
+                  "name": "Jlice"
+                },
+                "image": "https://jlice.gatsbyjs.io/img/post/${post.folder}/done.png",
+                "name": "${post.name}",
+                "recipeCategory": "${post.recipeCategory}",
+                "recipeCuisine": "${post.recipeCuisine}",
+                "recipeIngredient": "${post.recipeIngredient}",
+                "dataPublished": "${post.date}",
+                "description": "${post.description}",
+                "keywords": "${post.keywords}"
+              }
             `}
         </script>
       </Helmet>
