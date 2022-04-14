@@ -1,7 +1,7 @@
 ---
 lang: ko
 title: "놀라운 중국 음식, 맵고 향기로운, 아주 쉽습니다! 【마파두부】"
-slug: ma po tofu
+slug: ma-po-tofu-ko
 date: 2022-04-13
 category: post
 folder: ma-po-tofu

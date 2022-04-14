@@ -1,7 +1,7 @@
 ---
 lang: zh
 title: "了不起的中国菜，麻辣鲜香，超简单！【麻婆豆腐】"
-slug: ma po tofu
+slug: ma-po-tofu-zh
 date: 2022-04-13
 category: post
 folder: ma-po-tofu

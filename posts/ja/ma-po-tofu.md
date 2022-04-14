@@ -1,7 +1,7 @@
 ---
 lang: ja
 title: "素晴らしい中華料理、スパイシーで香り高い、超簡単！ 【麻婆豆腐】"
-slug: ma po tofu
+slug: ma-po-tofu-ja
 date: 2022-04-13
 category: post
 folder: ma-po-tofu

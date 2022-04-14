@@ -1,7 +1,7 @@
 ---
 lang: en
 title: "Amazing Chinese food, spicy and fragrant, super easy! 【Mapo Tofu】"
-slug: ma po tofu
+slug: ma-po-tofu-en
 date: 2022-04-13
 category: post
 folder: ma-po-tofu
