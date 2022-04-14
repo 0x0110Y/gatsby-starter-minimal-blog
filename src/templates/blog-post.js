@@ -33,7 +33,7 @@ export default function Post({ data }) {
                 "recipeIngredient": "${post.recipeIngredient}",
                 "dataPublished": "${post.date}",
                 "description": "${post.description}",
-                "keywords": "${post.keywords}",
+                "keywords": "${post.keywords}"
               }
             `}
         </script>
