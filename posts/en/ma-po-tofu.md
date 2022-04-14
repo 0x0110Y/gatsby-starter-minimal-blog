@@ -14,7 +14,7 @@ recipeIngredient: A piece of lean meat (meat filling), a piece of tofu, shallots
 ---
 
 <!-- start slipsum code -->
-### 食材和调料
+### Ingredients and Seasoning
 
 Ingredients: a piece of lean meat (meat filling), a piece of tofu
 
