@@ -19,6 +19,7 @@ exports.createPages = async ({ actions, graphql, reporter }) => {
               recipeCategory
               recipeCuisine
               recipeIngredient
+              folder
             }
           }
         }

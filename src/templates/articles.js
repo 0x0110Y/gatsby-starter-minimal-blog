@@ -78,6 +78,7 @@ export const articlesQuery = graphql`
             recipeCategory
             recipeCuisine
             recipeIngredient
+            folder
           }
         }
       }

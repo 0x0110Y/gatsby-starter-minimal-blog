@@ -61,6 +61,7 @@ export const pageQuery = graphql`
         recipeCategory
         recipeCuisine
         recipeIngredient
+        folder
       }
       timeToRead
     }
