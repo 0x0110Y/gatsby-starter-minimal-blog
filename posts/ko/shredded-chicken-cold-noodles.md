@@ -4,6 +4,13 @@ title: 새콤달콤, 겉은 바삭, 속은 부드러운 정통 중화요리! 【
 slug: shredded-chicken-cold-noodles-ko
 date: 2022-04-12
 category: post
+folder: shredded-chicken-cold-noodles
+name: 갈가리 찢긴 치킨 냉면
+description: 닭칼국수는 중국 쓰촨성의 전통 간식으로 시원하고 상쾌하며 칼로리가 낮은 음식입니다.
+keywords: 국수, 여름 필수품, 시원하고 상쾌한, 저칼로리
+recipeCategory: 국수
+recipeCuisine: 중국
+recipeIngredient: 닭가슴살, 오이, 당근, 샬롯, 생강, 마늘, 고추, 수제면 (스파게티면 대체 가능), 소금, 설탕, 식용유, 깨소금, 칠리면, 흑초, 간장, 후추가루, 통깨, 땅콩가루
 ---
 
 <!-- start slipsum code -->

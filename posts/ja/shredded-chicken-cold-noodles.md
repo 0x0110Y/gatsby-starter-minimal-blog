@@ -4,6 +4,13 @@ title: "夏に涼しげな麺を食べるのはとっても食欲をそそりま
 slug: shredded-chicken-cold-noodles-ja
 date: 2022-04-12
 category: post
+folder: shredded-chicken-cold-noodles
+name: 細切りチキン冷麺
+description: 細切りチキンコールドヌードルは、中国の四川省の伝統的なスナックで、さわやかでさわやかで低カロリーの食品です。
+keywords: 麺類、夏の定番、涼しくてさわやかな、低カロリー
+recipeCategory: 麺類
+recipeCuisine: 中国
+recipeIngredient: 材料：鶏の胸肉、きゅうり、にんじん、エシャロット、生姜、にんにく、赤唐辛子、手作り麺（代わりにスパゲッティを使用できます）。調味料：塩、砂糖、食用油、ごまペースト、唐辛子麺、黒酢、薄口醤油、胡椒粉、ごま、砕いたピーナッツ
 ---
 
 <!-- start slipsum code -->

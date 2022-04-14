@@ -13,13 +13,18 @@ exports.createPages = async ({ actions, graphql, reporter }) => {
               slug
               lang
               title
+              name
+              description
+              keywords
+              recipeCategory
+              recipeCuisine
+              recipeIngredient
             }
           }
         }
       }
     }
   `);
-
   if (query.errors) {
     reporter.panicOnBuild("Error while running GraphQL query.");
   }

@@ -1,9 +1,16 @@
 ---
 lang: ko
 title: "새콤달콤, 겉은 바삭, 속은 부드러운 정통 중화요리! 【탕수육】"
-slug: sweet-and-sour-ko
+slug: sweet-and-sour-pork-ko
 date: 2022-04-11
 category: post
+folder: sweet-and-sour
+name: 탕수육
+description: 탕수육은 중국의 대표적인 전통음식으로 재료가 아주 간단해서 아이들이 좋아하는 음식입니다
+keywords: 중국 고전 전통 요리, 새콤한 맛
+recipeCategory: 메인 코스
+recipeCuisine: 중국
+recipeIngredient: 안심 275g, 소금, 기름, 설탕, 식초, 토마토소스, 베이킹파우더, 후추, 만능밀가루, 옥수수전분, 흰깨
 ---
 
 <!-- start slipsum code -->

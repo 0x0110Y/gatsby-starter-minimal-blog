@@ -1,9 +1,16 @@
 ---
 lang: en
 title: "Sweet and sour, crispy on the outside and tender on the inside, classic Chinese food! 【Sweet and Sour Pork】"
-slug: sweet-and-sour-en
+slug: sweet-and-sour-pork-en
 date: 2022-04-11
 category: post
+folder: sweet-and-sour
+name: Sweet and Sour Pork
+description: Sweet and sour pork loin is a classic traditional Chinese dish. The ingredients are very simple to make and it is very popular among children
+keywords: Chinese classic traditional dishes, sweet and sour taste
+recipeCategory: main course
+recipeCuisine: Chinese
+recipeIngredient: 275g tenderloin, salt, oil, sugar, vinegar, ketchup, baking powder, pepper, all-purpose flour, cornstarch, white sesame
 ---
 
 <!-- start slipsum code -->

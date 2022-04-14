@@ -6,9 +6,11 @@ import Layout from "../components/Layout";
 //import "../styles/layout.css"
 
 export default function Articles(props) {
+  console.log(props);
   const intl = useIntl();
   const locale = intl.locale !== "en" ? `/${intl.locale}` : "";
   const posts = props.data.allMarkdownRemark.edges;
+  console.log(posts);
   const { numPages } = props.pageContext;
   const filteredPosts = posts.filter((edge) =>
     edge.node.frontmatter.lang.includes(intl.locale)
@@ -68,8 +70,14 @@ export const articlesQuery = graphql`
           frontmatter {
             date
             slug
-            title
             lang
+            title
+            name
+            description
+            keywords
+            recipeCategory
+            recipeCuisine
+            recipeIngredient
           }
         }
       }

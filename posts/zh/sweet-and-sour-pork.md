@@ -1,9 +1,16 @@
 ---
 lang: zh
 title: 酸甜可口外酥里嫩，经典中国美食！【糖醋里脊】
-slug: sweet-and-sour-zh
+slug: sweet-and-sour-pork-zh
 date: 2022-04-11
 category: post
+folder: sweet-and-sour
+name: 糖醋里脊
+description: 糖醋里脊是中国的经典传统名菜，制作原料非常简单，是小孩子特别喜欢的美食
+keywords: 中国经典传统名菜、酸甜口味
+recipeCategory: 主菜
+recipeCuisine: 中国
+recipeIngredient: 275克里脊肉，盐、油、糖、醋、番茄酱、泡打粉、胡椒粉、中筋面粉、玉米淀粉、白芝麻
 ---
 
 <!-- start slipsum code -->
@@ -33,4 +40,4 @@ category: post
 尝一下，酸了加糖，甜了加醋，淡了加盐，稀了加番茄酱。调好后倒入一个干净的平底锅小火炒化，炒化后加入一勺油，用铲子搅拌一下。
 加入炸好的里脊翻炒，让里脊充分被糖醋汁包裹，可以装盘啦，洒上一点白芝麻，搞定！
 
-![糖醋里脊](/img/post/sweet-and-sour/5.png)
+![糖醋里脊](/img/post/sweet-and-sour/done.png)

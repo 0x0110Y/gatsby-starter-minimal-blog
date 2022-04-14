@@ -1,9 +1,16 @@
 ---
 lang: ja
 title: 甘酸っぱい、外はサクサク、中はやわらかい、定番の中華料理！ 【酢豚】
-slug: sweet-and-sour-ja
+slug: sweet-and-sour-pork-ja
 date: 2022-04-11
 category: post
+folder: sweet-and-sour
+name: 酢豚
+description: 甘酸っぱい豚ロース肉は伝統的な中華料理で、具材はとても簡単で、子供たちに人気の食べ物です
+keywords: 中国の古典的な伝統料理、甘酸っぱい味
+recipeCategory: メインコース
+recipeCuisine: 中国
+recipeIngredient: テンダーロイン275g、塩、油、砂糖、酢、ケチャップ、ベーキングパウダー、コショウ、中力粉、コーンスターチ、白ごま
 ---
 
 <!-- start slipsum code -->

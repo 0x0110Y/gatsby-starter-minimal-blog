@@ -4,6 +4,13 @@ title: Eating cool noodles in summer is super appetizing! 【Cold Noodles with S
 slug: shredded-chicken-cold-noodles-en
 date: 2022-04-12
 category: post
+folder: shredded-chicken-cold-noodles
+name: Shredded Chicken Cold Noodles
+description: Shredded Chicken Cold Noodles is a traditional snack in Sichuan, China. It is refreshing, refreshing and low-calorie food.
+keywords: Pasta, summer staple, cool and refreshing, low calorie
+recipeCategory: Noodles
+recipeCuisine: Chinese
+recipeIngredient: chicken breast, cucumber, carrot, shallot, ginger, garlic, red pepper, hand-made noodles (spaghetti can be used instead)。salt, sugar, edible oil, sesame paste, chili noodles, black vinegar, light soy sauce, pepper powder, sesame seeds, crushed peanuts
 ---
 
 <!-- start slipsum code -->

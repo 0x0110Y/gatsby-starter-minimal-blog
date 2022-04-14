@@ -4,6 +4,13 @@ title: "夏天吃巨爽的凉面，超开胃！【鸡丝凉面】"
 slug: shredded-chicken-cold-noodles-zh
 date: 2022-04-12
 category: post
+folder: shredded-chicken-cold-noodles
+name: 鸡丝凉面
+description: 鸡丝凉面是四川的传统小吃，清凉爽口低卡解馋，是夏日必备的美食。
+keywords: 面食、夏季主食、清凉爽口、低热量
+recipeCategory: 主食
+recipeCuisine: 中国
+recipeIngredient: 食材：鸡胸肉、黄瓜、胡萝卜、小葱、姜、蒜、小红辣椒、手擀面(可以用意大利面代替)。调料：盐、白糖、食用油、芝麻酱、辣椒面、黑醋、生抽、花椒粉、芝麻、花生碎
 ---
 
 <!-- start slipsum code -->
@@ -46,7 +53,7 @@ category: post
 
 浇上降调制好的酱汁和芝麻酱，撒上花生碎和葱花。
 
-![淋汁](/img/post/shredded-chicken-cold-noodles/7.png)
+![淋汁](/img/post/shredded-chicken-cold-noodles/done.png)
 
 拌面就可以吃了，搞定！
 

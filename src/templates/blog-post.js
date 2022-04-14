@@ -4,11 +4,10 @@ import { graphql } from "gatsby";
 import Layout from "../components/Layout";
 import { changeLocale } from "gatsby-plugin-intl";
 import { useEffect } from "react";
-//import "../styles/layout.css"
+import { Helmet } from "react-helmet";
 
 export default function Post({ data }) {
   const { html, frontmatter: post } = data.markdownRemark;
-
   useEffect(() => {
     if (post.lang !== "en") {
       changeLocale(post.lang);
@@ -17,6 +16,28 @@ export default function Post({ data }) {
 
   return (
     <Layout title={post.title}>
+      <Helmet>
+        <script type="application/ld+json">
+          {`
+              {
+                "@context": "https://schema.org",
+                "@type": "Recipe",
+                "author": {
+                  "@type": "Person",
+                  "name": "Jlice"
+                },
+                "image": "https://jlice.gatsbyjs.io/img/post/${post.folder}/done.png",
+                "name": "${post.name}",
+                "recipeCategory": "${post.recipeCategory}",
+                "recipeCuisine": "${post.recipeCuisine}",
+                "recipeIngredient": "${post.recipeIngredient}",
+                "dataPublished": "${post.date}",
+                "description": "${post.description}",
+                "keywords": "${post.keywords}",
+              }
+            `}
+        </script>
+      </Helmet>
       <article className="post-content">
         <h1>{post.title}</h1>
         <div className="post-text" dangerouslySetInnerHTML={{ __html: html }} />
@@ -32,8 +53,14 @@ export const pageQuery = graphql`
       frontmatter {
         date
         slug
-        title
         lang
+        title
+        name
+        description
+        keywords
+        recipeCategory
+        recipeCuisine
+        recipeIngredient
       }
       timeToRead
     }
