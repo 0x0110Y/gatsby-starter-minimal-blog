@@ -1,5 +1,5 @@
 ---
-lang: zh
+lang: en
 title: "Amazing Chinese food, spicy and fragrant, super easy! 【Mapo Tofu】"
 slug: ma po tofu
 date: 2022-04-13
