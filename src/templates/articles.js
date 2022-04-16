@@ -6,16 +6,13 @@ import Layout from "../components/Layout";
 //import "../styles/layout.css"
 
 export default function Articles(props) {
-  console.log(props);
   const intl = useIntl();
   const locale = intl.locale !== "en" ? `/${intl.locale}` : "";
   const posts = props.data.allMarkdownRemark.edges;
-  console.log(posts);
   const { numPages } = props.pageContext;
   const filteredPosts = posts.filter((edge) =>
     edge.node.frontmatter.lang.includes(intl.locale)
   );
-  console.log(filteredPosts)
   return (
     <Layout title={intl.formatMessage({ id: "articles" })}>
       <section className="articles">

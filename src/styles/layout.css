@@ -19,11 +19,27 @@ main {
     "f f";
 }
 
-h1 {
-  font-size: 4em;
-  text-align: center;
+/* 桌面端 */
+@media screen and (min-width: 1000px) {
+  h1 {
+    font-size: 2em;
+    text-align: center;
+  }
 }
-
+/* pad */
+@media screen and (min-width: 640px) and (max-width: 1000px) {
+  h1 {
+    font-size: 3em;
+    text-align: center;
+  }
+}
+/* mobile */
+@media screen and (max-width: 639px){
+  h1 {
+    font-size: 2em;
+    text-align: center;
+  }
+}
 a {
   color: #000;
   font-weight: bold;

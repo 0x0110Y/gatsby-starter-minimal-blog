@@ -4,6 +4,7 @@
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
+    "fast-xml-parser": "^4.0.7",
     "gatsby": "^3.4.0",
     "gatsby-plugin-google-gtag": "^4.11.0",
     "gatsby-plugin-intl": "^0.3.3",
@@ -11,11 +12,13 @@
     "gatsby-plugin-web-font-loader": "^1.0.4",
     "gatsby-source-filesystem": "^3.4.0",
     "gatsby-transformer-remark": "^4.1.0",
+    "generate-robotstxt": "^8.0.3",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "react-helmet": "^6.1.0"
   },
   "scripts": {
+    "robots": "gatsby build && node robots",
     "build": "gatsby build",
     "build-prefix-links": "gatsby build --prefix-links",
     "develop": "gatsby develop"
