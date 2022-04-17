@@ -20,6 +20,7 @@ export default function Header({ className, children, title }) {
         <Link to="/ja">JA</Link>
         <Link to="/ko">KO</Link>
         <Link to="/zh">ZH</Link>
+        <Link to="/vi">VI</Link>
       </div>
     </header>
   );
