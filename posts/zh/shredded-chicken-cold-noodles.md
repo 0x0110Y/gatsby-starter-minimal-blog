@@ -1,12 +1,12 @@
 ---
 lang: zh
-title: "夏天吃巨爽的凉面，超开胃！【鸡丝凉面】"
+title: "夏天吃巨爽的中国小吃，超开胃！【鸡丝凉面】"
 slug: shredded-chicken-cold-noodles-zh
 date: 2022-04-12
 category: post
 folder: shredded-chicken-cold-noodles
 name: 鸡丝凉面
-description: 鸡丝凉面是四川的传统小吃，清凉爽口低卡解馋，是夏日必备的美食。
+description: 鸡丝凉面是中国四川的传统小吃，清凉爽口低卡解馋，是夏日必备的美食。
 keywords: 面食、夏季主食、清凉爽口、低热量
 recipeCategory: 主食
 recipeCuisine: 中国

@@ -1,12 +1,12 @@
 ---
 lang: ko
-title: 새콤달콤, 겉은 바삭, 속은 부드러운 정통 중화요리! 【탕수육】
+title: 여름에는 슈퍼 시원한 중국 간식을 먹고 슈퍼 식욕을 돋 웁니다!【갈가리 찢긴 치킨 냉면】
 slug: shredded-chicken-cold-noodles-ko
 date: 2022-04-12
 category: post
 folder: shredded-chicken-cold-noodles
 name: 갈가리 찢긴 치킨 냉면
-description: 닭칼국수는 중국 쓰촨성의 전통 간식으로 시원하고 상쾌하며 칼로리가 낮은 음식입니다.
+description: 중국 쓰촨성의 전통 간식으로 시원하고 상쾌하며 칼로리가 낮아 여름에 꼭 먹어야 하는 음식입니다.
 keywords: 국수, 여름 필수품, 시원하고 상쾌한, 저칼로리
 recipeCategory: 국수
 recipeCuisine: 중국

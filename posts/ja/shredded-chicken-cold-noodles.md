@@ -1,6 +1,6 @@
 ---
 lang: ja
-title: "夏に涼しげな麺を食べるのはとっても食欲をそそります！ 【細切りチキン入り冷麺】"
+title: "夏に超クールな中国のおやつを食べて、超食欲をそそる！ 【細切りチキン入り冷麺】"
 slug: shredded-chicken-cold-noodles-ja
 date: 2022-04-12
 category: post

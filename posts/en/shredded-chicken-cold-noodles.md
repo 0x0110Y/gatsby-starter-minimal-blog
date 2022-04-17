@@ -1,6 +1,6 @@
 ---
 lang: en
-title: Eating cool noodles in summer is super appetizing! 【Cold Noodles with Shredded Chicken】
+title: Eat super cool Chinese snacks in summer, super appetizing! 【Cold Noodles with Shredded Chicken】
 slug: shredded-chicken-cold-noodles-en
 date: 2022-04-12
 category: post
