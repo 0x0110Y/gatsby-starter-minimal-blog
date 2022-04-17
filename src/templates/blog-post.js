@@ -37,6 +37,8 @@ export default function Post({ data }) {
               }
             `}
         </script>
+        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5991012621535339"
+          crossorigin="anonymous"></script>
       </Helmet>
       <article className="post-content">
         <h1>{post.title}</h1>
