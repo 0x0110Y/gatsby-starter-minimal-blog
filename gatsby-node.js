@@ -43,7 +43,7 @@ exports.createPages = async ({ actions, graphql, reporter }) => {
 
   // Articles template pages and context
   const posts = query.data.allMarkdownRemark.edges;
-  const postsPerPage = 20;
+  const postsPerPage = 100;
   const numPages = Math.ceil(posts.length / postsPerPage);
 
   Array.from({ length: numPages }).forEach((_, i) => {
