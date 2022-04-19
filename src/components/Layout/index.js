@@ -15,7 +15,7 @@ export default function Layout({ className, children, title }) {
         <html lang={intl.locale} />
         <meta charSet="utf-8" />
         <title>{title}</title>
-        <meta name="description" content="A Gatsby multilingual site" />
+        <meta name="description" content={intl.formatMessage({ id: "info" })} />
       </Helmet>
       <Header />
       {children}
