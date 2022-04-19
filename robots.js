@@ -22,7 +22,7 @@ data.urlset.url.map((o) => {
         urls.splice(urls.length - 1, 1);
         let url = urls.join('/');
         if (url.indexOf(lang) < 0) {
-            res.push(loc.replace('https://jlice.gatsbyjs.io', ''))
+            res.push(loc.replace('https://jlice.co', ''))
         }
     }
 })
@@ -44,8 +44,8 @@ robotstxt({
             allow: "/",
         },
     ],
-    sitemap: "https://jlice.gatsbyjs.io/sitemap/sitemap-0.xml",
-    host: "https://jlice.gatsbyjs.io/m",
+    sitemap: "https://jlice.co/sitemap/sitemap-0.xml",
+    host: "https://jlice.co/",
 })
     .then((content) => {
         console.log(content);

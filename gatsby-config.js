@@ -1,7 +1,7 @@
 module.exports = {
   /* Your site config here */
   siteMetadata: {
-    siteUrl: `https://jlice.gatsbyjs.io`,//增加siteUrl
+    siteUrl: `https://jlice.co`,//增加siteUrl
   },
   plugins: [
     `gatsby-plugin-sitemap`,
