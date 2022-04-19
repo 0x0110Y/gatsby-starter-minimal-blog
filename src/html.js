@@ -12,6 +12,8 @@ export default function HTML(props) {
           content="width=device-width, initial-scale=1, shrink-to-fit=no"
         />
         <meta name="google-site-verification" content="UeGR877mY7G5c-LpU70YoCErxQG21a5I87oYHhercOk" />
+        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5991012621535339"
+          crossorigin="anonymous"></script>
         {/* <!-- Global site tag (gtag.js) - Google Analytics --> */}
         <script async src="https://www.googletagmanager.com/gtag/js?id=G-KG6YVM0559"></script>
         <script
