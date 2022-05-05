@@ -20,7 +20,7 @@ export default function Layout({ className, children, title }) {
       <Header />
       {children}
       <Footer>
-        <p>Jlice Lee - 2022</p>
+        <p>Jlice Li - 2022</p>
       </Footer>
     </main>
   );
