@@ -58,7 +58,7 @@ Put the noodles into the plate after filtering the water, and spread the carrot,
 
 Pour over the prepared sauce and sesame paste, sprinkle with chopped peanuts and chopped green onion.
 
-![淋汁](/img/post/shredded-chicken-cold-noodles/7.png)
+![淋汁](/img/post/shredded-chicken-cold-noodles/done.png)
 
 Just mix it up and eat it, you're done!
 

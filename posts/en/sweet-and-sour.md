@@ -39,4 +39,4 @@ A spoon and bowl, four tablespoons of tomato paste, two tablespoons of white vin
 Taste and add sugar and vinegar to your liking. After adjusting the salt and tomato sauce, pour it into a clean pan and fry it over low heat. After frying, add a spoonful of oil and stir it with a spoon.
 Add the fried tenderloin and stir-fry until the tenderloin is fully wrapped in the sweet and sour sauce, ready to serve on a plate, sprinkle with a little white sesame seeds, and you're done!
 
-![Sweet and Sour Pork](/img/post/sweet-and-sour/5.png)
+![Sweet and Sour Pork](/img/post/sweet-and-sour/done.png)
